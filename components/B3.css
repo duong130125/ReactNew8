@@ -1,0 +1,11 @@
+.nav {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.active {
+    width: 80px;
+    height: 40px;
+    background-color: rgb(104, 98, 98);
+    border-radius: 5px;
+}
